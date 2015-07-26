@@ -1,5 +1,5 @@
 # ookay
-A simple [`Ook!`](http://esolangs.org/wiki/ook!) interpreter (and library) in Haskell. Mostly a lexer, as it leverages [brainfucker](https://github.com/expede/brainfucker) for the rest.
+A simple [`Ook!`](http://esolangs.org/wiki/ook!) interpreter (and library). Mostly a lexer, as it leverages [brainfucker](https://github.com/expede/brainfucker) for the rest.
 
 # Installation
 
