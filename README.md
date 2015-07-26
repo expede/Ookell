@@ -1,2 +1,2 @@
 # Ookell
-A simple Ook! interpreter in Haskell
+A simple `Ook!` interpreter in Haskell
